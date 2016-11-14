@@ -1,0 +1,478 @@
+PatientID	T	M	Status	Stage	N	Survival
+TCGA-3N-A9WB						
+TCGA-3N-A9WC						
+TCGA-3N-A9WD						
+TCGA-BF-A1PU						
+TCGA-BF-A1PV	T4b	M0	DiseaseFree	Stage IIC	N0	0.46
+TCGA-BF-A1PX						
+TCGA-BF-A1PZ	T4a	M0	DiseaseFree	Stage IIB	N0	0.39
+TCGA-BF-A1Q0	T4b	M0	DiseaseFree	Stage IIC	N0	0.56
+TCGA-BF-A3DJ						
+TCGA-BF-A3DL						
+TCGA-BF-A3DM	T4b	M0	DiseaseFree	Stage IIC	N0	0.46
+TCGA-BF-A3DN						
+TCGA-BF-A5EO						
+TCGA-BF-A5EP						
+TCGA-BF-A5EQ						
+TCGA-BF-A5ER						
+TCGA-BF-A5ES						
+TCGA-BF-A9VF						
+TCGA-BF-AAOU						
+TCGA-BF-AAOX						
+TCGA-BF-AAP0						
+TCGA-BF-AAP1						
+TCGA-BF-AAP2						
+TCGA-BF-AAP4						
+TCGA-BF-AAP6						
+TCGA-BF-AAP7						
+TCGA-BF-AAP8						
+TCGA-D3-A1Q1	T1b	M0	Recurred/Progressed	Stage IIIC	N3	16.6
+TCGA-D3-A1Q3	T4b	M0		Stage IIC	N0	16.7
+TCGA-D3-A1Q4	T2b	M0	DiseaseFree	Stage IIIC	N1b	112
+TCGA-D3-A1Q5	TX	M0	Recurred/Progressed	I or II NOS	N0	112
+TCGA-D3-A1Q6	T4	M0	Recurred/Progressed	Stage III	N1b	71.8
+TCGA-D3-A1Q7	T1b	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-D3-A1Q8	T0	M1b	Recurred/Progressed	Stage IV	N3	28.1
+TCGA-D3-A1Q9	T4b	M0	Recurred/Progressed	Stage IIIB	N2a	31.6
+TCGA-D3-A1QA	T2a	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-D3-A1QA	T2a	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-D3-A1QB	T0	M0	Recurred/Progressed	Stage III	N2c	
+TCGA-D3-A2J6	T3b	M0	Recurred/Progressed	Stage IIB	N0	43.4
+TCGA-D3-A2J7	T3b	M0	Recurred/Progressed	Stage IIIC	N1b	103
+TCGA-D3-A2J8	T2a	M0	Recurred/Progressed	Stage IB	N0	65.4
+TCGA-D3-A2J9	T4b	M0	Recurred/Progressed	Stage IIIC	N3	23.8
+TCGA-D3-A2JA	T2a	M0	Recurred/Progressed	Stage IIIA	N1a	
+TCGA-D3-A2JB	Tis	M0	Recurred/Progressed	Stage 0	N0	168
+TCGA-D3-A2JC	T0	M0	DiseaseFree	Stage III	N2b	69.8
+TCGA-D3-A2JD	T4b	M0	Recurred/Progressed	Stage IIIC	N1b	11.9
+TCGA-D3-A2JE						
+TCGA-D3-A2JF	T1a	M0	Recurred/Progressed	Stage IA	N0	
+TCGA-D3-A2JG	T3a	M0	Recurred/Progressed	Stage IIIA	N1a	113
+TCGA-D3-A2JH	T1b	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-D3-A2JK	T4b	M0	Recurred/Progressed	Stage IIIC	N2b	12.1
+TCGA-D3-A2JL	TX	M0	Recurred/Progressed	I or II NOS	N0	
+TCGA-D3-A2JN	T0	M0		Stage III	N1b	66.4
+TCGA-D3-A2JO	TX	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-D3-A2JP	T0	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-D3-A3BZ	T4a	M0	Recurred/Progressed	Stage IIB	N0	
+TCGA-D3-A3C1	TX	M0		I or II NOS	N0	
+TCGA-D3-A3C3	TX	M0		I or II NOS	N0	
+TCGA-D3-A3C6	T2a	M0	Recurred/Progressed	Stage IB	N0	58
+TCGA-D3-A3C7	T0	M0	DiseaseFree	Stage III	N1b	46.9
+TCGA-D3-A3C8	TX	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-D3-A3CB	T2	M0	DiseaseFree	I or II NOS	N0	166
+TCGA-D3-A3CC	T4b	M0	Recurred/Progressed	Stage IIC	N0	
+TCGA-D3-A3CE	T0	M0	Recurred/Progressed	Stage III	N1b	60.2
+TCGA-D3-A3CF	T4b	M0	Recurred/Progressed	Stage IIIC	N3	24.5
+TCGA-D3-A3ML	T3a	M0	Recurred/Progressed	Stage IIIA	N2a	13.9
+TCGA-D3-A3MO	TX	M0	Recurred/Progressed	Stage III	N2c	9.33
+TCGA-D3-A3MR	T0	M0	Recurred/Progressed	Stage III	N1b	104
+TCGA-D3-A3MU	T3a	M0	Recurred/Progressed	Stage IIIA	N2a	
+TCGA-D3-A3MV	T2b	M0	Recurred/Progressed	Stage IIIB	N2a	
+TCGA-D3-A51E	T2	M0	DiseaseFree	I or II NOS	N0	162
+TCGA-D3-A51F	T4b	M0	DiseaseFree	Stage IIIC	N1b	43.7
+TCGA-D3-A51G	Tis	M0		Stage 0	N0	
+TCGA-D3-A51H	T1b	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-D3-A51J	T0	M0	Recurred/Progressed	Stage III	N1b	
+TCGA-D3-A51K	Tis	M0	DiseaseFree	Stage IIIB	N2b	18.4
+TCGA-D3-A51N	T0	M1c	Recurred/Progressed	Stage IV	N3	
+TCGA-D3-A51R	T3a	M0	Recurred/Progressed	Stage IIA	N0	
+TCGA-D3-A51T	T4b	M0	Recurred/Progressed	Stage IIIC	N1b	
+TCGA-D3-A5GL	T2a	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-D3-A5GN	T1	M0	Recurred/Progressed	Stage I	N0	
+TCGA-D3-A5GO	T4	M0	Recurred/Progressed	Stage II	N0	
+TCGA-D3-A5GR	T1b	M0	Recurred/Progressed	Stage III	N1	
+TCGA-D3-A5GS	T1b	M1c	Recurred/Progressed	Stage IV	N1b	
+TCGA-D3-A5GT	T2b	M0	DiseaseFree	Stage IIIC	N3	5.88
+TCGA-D3-A5GU	T1b	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-D3-A8GB	T3a	M0	Recurred/Progressed	Stage IIIB	N1b	30.8
+TCGA-D3-A8GC						
+TCGA-D3-A8GD						
+TCGA-D3-A8GE						
+TCGA-D3-A8GI	T1a	M0	Recurred/Progressed	Stage IA	N0	58.5
+TCGA-D3-A8GJ						
+TCGA-D3-A8GK						
+TCGA-D3-A8GL						
+TCGA-D3-A8GM	T3b	M0	DiseaseFree	Stage IIB	N0	95.2
+TCGA-D3-A8GN						
+TCGA-D3-A8GO						
+TCGA-D3-A8GP						
+TCGA-D3-A8GQ						
+TCGA-D3-A8GR						
+TCGA-D3-A8GS						
+TCGA-D3-A8GV						
+TCGA-D9-A148	TX	M1b	Recurred/Progressed		N3	
+TCGA-D9-A149	TX	M0	Recurred/Progressed		N1b	
+TCGA-D9-A1JW	T1a	M0	Recurred/Progressed		N2a	
+TCGA-D9-A1JX	TX	M0	Recurred/Progressed		NX	7.1
+TCGA-D9-A1X3	T4b		DiseaseFree		N2b	18.1
+TCGA-D9-A1X3	T4b		DiseaseFree		N2b	18.1
+TCGA-D9-A3Z1	T2a	M0	Recurred/Progressed	Stage IIIC	N3	15.4
+TCGA-D9-A3Z3	T3a	M0	DiseaseFree	Stage IIIB	N1b	3.25
+TCGA-D9-A3Z4	T4b	M0	DiseaseFree	Stage IIIC	N3	3.91
+TCGA-D9-A4Z2	T4b	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-D9-A4Z3	T4b	M0	DiseaseFree	Stage IIIC	N1b	3.42
+TCGA-D9-A4Z5	T4a	M0	DiseaseFree	Stage IIB	N0	4.63
+TCGA-D9-A4Z6	T3b	M0	DiseaseFree	Stage IIIC	N1b	11.1
+TCGA-D9-A4Z6	T3b	M0	DiseaseFree	Stage IIIC	N1b	11.1
+TCGA-D9-A6E9						
+TCGA-D9-A6EA						
+TCGA-D9-A6EC						
+TCGA-D9-A6EG						
+TCGA-DA-A1HV	T0	M0	DiseaseFree	Stage IIIB	N2b	48.9
+TCGA-DA-A1HW	T1a	M0	Recurred/Progressed	Stage IIIB	N1b	36
+TCGA-DA-A1HY	T2b	M0	DiseaseFree	Stage IIIC	N3	117
+TCGA-DA-A1I0	T4b	M1a		Stage IV	N3	20.4
+TCGA-DA-A1I1	T0	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-DA-A1I2	T4b	M0		Stage IIIC	N2b	176
+TCGA-DA-A1I4	T3b	M0		Stage IIIC	N2b	35.9
+TCGA-DA-A1I5	T1a	M1c	DiseaseFree	Stage IV	N0	107
+TCGA-DA-A1I7	T0	M0	Recurred/Progressed	Stage IIIB	N2b	
+TCGA-DA-A1I8	T4b	M0		Stage IIIC	N3	53.9
+TCGA-DA-A1IA	T2a	M0		Stage IIIB	N1b	65.9
+TCGA-DA-A1IB	T2b	M0	DiseaseFree	Stage IIIC	N2b	23.4
+TCGA-DA-A1IC	T3a	M0		Stage IIIB	N2c	68
+TCGA-DA-A3F2	T4a	M0	DiseaseFree	Stage IIIB	N2b	28.6
+TCGA-DA-A3F3	T0	M0		Stage IIIB	N2b	10.5
+TCGA-DA-A3F5	T1a	M0	DiseaseFree	Stage IIIC	N3	215
+TCGA-DA-A3F8	T2a	M0	DiseaseFree	Stage IIIB	N2b	15.7
+TCGA-DA-A95V						
+TCGA-DA-A95W						
+TCGA-DA-A95X						
+TCGA-DA-A95Y						
+TCGA-DA-A95Z						
+TCGA-DA-A960						
+TCGA-EB-A1NK	T4b	M0	DiseaseFree	Stage IIC	N0	20.1
+TCGA-EB-A24C	T4b	M0	Recurred/Progressed		NX	20.8
+TCGA-EB-A24D	T4a	M0	Recurred/Progressed	Stage IIIB	N2b	21.2
+TCGA-EB-A299	T2b	M0	DiseaseFree	Stage IIA	N0	12.4
+TCGA-EB-A3HV	T4b	M0		Stage IIC	N0	
+TCGA-EB-A3XB	T4	M0	DiseaseFree	Stage II	NX	13.4
+TCGA-EB-A3XC	T4b	M0	DiseaseFree	Stage IIC	N0	0.3
+TCGA-EB-A3XD	T4b	M0	DiseaseFree	Stage IIC	NX	14.1
+TCGA-EB-A3XE	T3a	M0	DiseaseFree	Stage IIA	N0	5.91
+TCGA-EB-A3XF	T4b	M0	DiseaseFree	Stage IIC	N0	9.13
+TCGA-EB-A3Y6	T4b	M0	DiseaseFree	Stage IIC	N0	4.14
+TCGA-EB-A3Y7	T3a	M0		Stage IIIB	N2c	10.7
+TCGA-EB-A41A	T4b	M0	DiseaseFree	Stage IIC	N0	8.61
+TCGA-EB-A41B	T4b	M0	DiseaseFree	Stage IIC	N0	9.56
+TCGA-EB-A42Y	T4b	M0	DiseaseFree	Stage IIC	N0	14.4
+TCGA-EB-A42Z	T4b	M0	DiseaseFree	Stage IIIC	N1b	14.5
+TCGA-EB-A430	T4b	M0	DiseaseFree	Stage IIC	N0	-0.07
+TCGA-EB-A431	T4b	M0	DiseaseFree	Stage IIC	N0	1.71
+TCGA-EB-A44N	T4b	M0	DiseaseFree	Stage IIC	N0	1.48
+TCGA-EB-A44O	T4a	M0	DiseaseFree	Stage IIB	N0	0.16
+TCGA-EB-A44P	T4b	M0	DiseaseFree	Stage IIC	N0	0.23
+TCGA-EB-A44Q	TX	M0	DiseaseFree	Stage IIIC	N3	13.9
+TCGA-EB-A44R	TX	M0		Stage IIIB	N2b	10.3
+TCGA-EB-A4IQ	T4b	M0		Stage IIIB	N1	13.6
+TCGA-EB-A4IS	T3b	M0	DiseaseFree	Stage IIB	NX	0
+TCGA-EB-A4OY	T4b	M0	DiseaseFree	Stage IIIB	N1a	-0.07
+TCGA-EB-A4OZ	T4a	M0	DiseaseFree	Stage IIIC	N3	-0.1
+TCGA-EB-A4P0	T4b	M0	DiseaseFree	Stage IIC	N0	-0.07
+TCGA-EB-A4XL	T4b	M0	DiseaseFree	Stage IIC	NX	0
+TCGA-EB-A51B	T4b	M0	DiseaseFree	Stage IIC	NX	-0.16
+TCGA-EB-A550	T4b	M0	DiseaseFree	Stage IIC	NX	0.2
+TCGA-EB-A551	T4b	M0	DiseaseFree	Stage IIIC	N2b	0.26
+TCGA-EB-A553	T4b	M0	DiseaseFree	Stage IIC	N0	7.42
+TCGA-EB-A57M	T4b	M0	DiseaseFree	Stage IIIB	N1	13.1
+TCGA-EB-A5FP	T4b	M1b		Stage IV	NX	14.9
+TCGA-EB-A5KH	T0	M0		Stage III	N1	20.3
+TCGA-EB-A5SE	T3b	M0	DiseaseFree	Stage IIB	NX	0
+TCGA-EB-A5SF	T4b	M0	DiseaseFree	Stage IIC	NX	0
+TCGA-EB-A5SG			DiseaseFree			45.1
+TCGA-EB-A5SH						
+TCGA-EB-A5UL	TX	M0	DiseaseFree	Stage III	N1	3.55
+TCGA-EB-A5UM	T4b	M0	DiseaseFree	Stage IIC	N0	13.6
+TCGA-EB-A5UN	T4b	M0	DiseaseFree	Stage IIC	NX	38.8
+TCGA-EB-A5VU	T4b	M0	Recurred/Progressed	Stage IIIB	N1	10.6
+TCGA-EB-A5VV	T3b	M0	DiseaseFree	Stage IIIB	N1	6.34
+TCGA-EB-A6L9	TX	M0	DiseaseFree	Stage IIIC	N3	12.2
+TCGA-EB-A6QY	T4b	M0	DiseaseFree	Stage IIC	N0	-0.16
+TCGA-EB-A6QZ	T3a	M0	DiseaseFree	Stage IIA	N0	-0.1
+TCGA-EB-A6R0	T4b	M0	DiseaseFree	Stage IIC	N0	-0.07
+TCGA-EB-A82B	T4b	M0	DiseaseFree	Stage III	N2	0.46
+TCGA-EB-A82C	T4b	M0	DiseaseFree	Stage IIC	N0	0.56
+TCGA-EB-A85I	T4b	M0	DiseaseFree	Stage IIC	N0	-0.16
+TCGA-EB-A85J	T4a	M0	DiseaseFree	Stage IIB	N0	-0.2
+TCGA-EB-A97M						
+TCGA-EE-A17X	T1a	M0	Recurred/Progressed	Stage IA	N0	29.8
+TCGA-EE-A17Y	T3b	M0	Recurred/Progressed	Stage IIIB	N1a	27.2
+TCGA-EE-A17Z	T4a	M0	Recurred/Progressed	Stage IIB	N0	8.64
+TCGA-EE-A180	T4a	M0	Recurred/Progressed	Stage III	N0	94.9
+TCGA-EE-A181	T3	M0	Recurred/Progressed	Stage II	N0	33.7
+TCGA-EE-A182	T4b	M0	Recurred/Progressed	Stage IIIC	N1b	14.7
+TCGA-EE-A183	Tis	M0	Recurred/Progressed	Stage 0	N0	26.9
+TCGA-EE-A184	T2a	M0	Recurred/Progressed	Stage IB	N0	68.1
+TCGA-EE-A185	T4b	M0	Recurred/Progressed	Stage IIIC	N3	4.96
+TCGA-EE-A20B	T3	M0	DiseaseFree	Stage II	N0	110
+TCGA-EE-A20C	Tis	M0	Recurred/Progressed	Stage 0	N0	151
+TCGA-EE-A20F	T1	M0	DiseaseFree	Stage I	N0	78.8
+TCGA-EE-A20H	T2	M0	Recurred/Progressed	Stage I	N0	168
+TCGA-EE-A20I	TX	M1c	Recurred/Progressed	Stage IV	N0	13.5
+TCGA-EE-A29A	T3a	M0	Recurred/Progressed	Stage IIIA	N1a	63.3
+TCGA-EE-A29B	T3b	M0	Recurred/Progressed	Stage IIB	N0	
+TCGA-EE-A29C	T2a	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-EE-A29D	T3b	M0		Stage IIIC	N1b	14
+TCGA-EE-A29E	T3a	M0	DiseaseFree	Stage IIIB	N1b	39.6
+TCGA-EE-A29G	T4a	M0	Recurred/Progressed	Stage IIIA	N2a	72
+TCGA-EE-A29H	T1a	M0	DiseaseFree	Stage IA	N0	32.2
+TCGA-EE-A29L	T4b	M0	Recurred/Progressed	Stage IIIC	N3	2.6
+TCGA-EE-A29M	T2a	M0	DiseaseFree	Stage IB	N0	44.3
+TCGA-EE-A29N	TX	M0	Recurred/Progressed	I or II NOS	N0	18.6
+TCGA-EE-A29P	T4b	M0	Recurred/Progressed	Stage IIC	N0	
+TCGA-EE-A29Q	T3b	M0	DiseaseFree	Stage IIB	N0	37.3
+TCGA-EE-A29R	T3b	M0	Recurred/Progressed	Stage IIIC	N1b	
+TCGA-EE-A29S	T3a	M0	Recurred/Progressed	Stage IIA	N0	
+TCGA-EE-A29T	TX	M0	Recurred/Progressed		NX	
+TCGA-EE-A29V	T3b	M0	Recurred/Progressed	Stage IIIC	N1b	25.9
+TCGA-EE-A29W	Tis	M0	Recurred/Progressed	Stage 0	N0	
+TCGA-EE-A29X	T2a	M0	Recurred/Progressed	Stage IB	N0	17.9
+TCGA-EE-A2A0	T3a	M0	Recurred/Progressed	Stage IIA	N0	46.8
+TCGA-EE-A2A1	T2a	M0	DiseaseFree	Stage IB	N0	78.9
+TCGA-EE-A2A2	T4b	M0	DiseaseFree	Stage IIIC	N1b	24.4
+TCGA-EE-A2A5	T2a	M0	Recurred/Progressed	Stage IB	N0	39.3
+TCGA-EE-A2A6	T1a	M0	Recurred/Progressed	Stage IA	N0	
+TCGA-EE-A2GB	T2b	M0	DiseaseFree	Stage IIIB	N1a	47.5
+TCGA-EE-A2GC	T3b	M0	DiseaseFree	Stage IIB	N0	43.2
+TCGA-EE-A2GD	T4	M0	Recurred/Progressed	Stage IIB	N0	
+TCGA-EE-A2GE	T2	M0	DiseaseFree	Stage I	N0	136
+TCGA-EE-A2GH	T2	M0	DiseaseFree	Stage I	N0	182
+TCGA-EE-A2GI	T1a	M0	DiseaseFree	Stage IA	N0	22.5
+TCGA-EE-A2GJ	T1a	M0	Recurred/Progressed	Stage IA	N0	
+TCGA-EE-A2GK	T1	M0	Recurred/Progressed	Stage I	N0	
+TCGA-EE-A2GL	T3a	M0	DiseaseFree	Stage IIA	N0	55
+TCGA-EE-A2GM	T4b	M0	Recurred/Progressed	Stage IIC	N0	
+TCGA-EE-A2GN	T2b	M0	Recurred/Progressed	Stage IIA	N0	
+TCGA-EE-A2GO	T3b	M0	Recurred/Progressed	Stage II	N0	
+TCGA-EE-A2GP	T4b	M0	Recurred/Progressed	Stage IIIB	N1a	13.9
+TCGA-EE-A2GR	T4	M0	DiseaseFree	Stage II	N0	14.3
+TCGA-EE-A2GS	T2a	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-EE-A2GT	T3a	M0	Recurred/Progressed	Stage IIA	N0	
+TCGA-EE-A2GU	T1a	M0	DiseaseFree	Stage IA	N0	67.1
+TCGA-EE-A2M5	T2	M0	Recurred/Progressed	Stage I	N0	21.6
+TCGA-EE-A2M6	T1	M0	DiseaseFree	Stage I	N0	129
+TCGA-EE-A2M7	T3a	M0	Recurred/Progressed	Stage II	N0	28.8
+TCGA-EE-A2M8	T3a	M0	Recurred/Progressed	Stage III	N1	19.7
+TCGA-EE-A2MC	T2	M0	Recurred/Progressed	Stage I	N0	61.5
+TCGA-EE-A2MD	T3a	M0	Recurred/Progressed	Stage II	N0	47.2
+TCGA-EE-A2ME	T2	M0	Recurred/Progressed	Stage I	N0	103
+TCGA-EE-A2MF						
+TCGA-EE-A2MG	T2	M0	Recurred/Progressed	Stage I	N0	103
+TCGA-EE-A2MH	T4a	M0	Recurred/Progressed	Stage III	N0	16.9
+TCGA-EE-A2MI	T4	M0	Recurred/Progressed	Stage IIB	N0	205
+TCGA-EE-A2MJ	T4b	M0	Recurred/Progressed	Stage III	N0	96.2
+TCGA-EE-A2MK	T4a	M0	DiseaseFree	Stage III	N0	145
+TCGA-EE-A2ML	T3a	M0	DiseaseFree	Stage II	N0	203
+TCGA-EE-A2MM	T2	M0	Recurred/Progressed	Stage I	N0	168
+TCGA-EE-A2MN	T2	M0	Recurred/Progressed	Stage I	N0	47.5
+TCGA-EE-A2MP	T2	M0	Recurred/Progressed	Stage I	N0	
+TCGA-EE-A2MQ	T3a	M0	Recurred/Progressed	Stage IIIA	N2a	43.2
+TCGA-EE-A2MR	T2	M0	Recurred/Progressed	Stage I	N0	
+TCGA-EE-A2MS	T3a	M0	Recurred/Progressed	Stage II	N0	
+TCGA-EE-A2MT	T2a	M0	DiseaseFree	Stage IB	N0	41.6
+TCGA-EE-A2MU	T1a	M0	DiseaseFree	Stage IA	N0	53.2
+TCGA-EE-A3AA	T0	M0	DiseaseFree	Stage III	N1b	124
+TCGA-EE-A3AB	T0	M0	DiseaseFree	Stage III	N2a	123
+TCGA-EE-A3AC	T0	M0	DiseaseFree	Stage III	N2b	25.8
+TCGA-EE-A3AD	T0	M0	DiseaseFree	Stage III	N1b	3.68
+TCGA-EE-A3AE	T1a	M0	DiseaseFree	Stage IA	N0	26.7
+TCGA-EE-A3AF	T0	M0	Recurred/Progressed	Stage IIIC	N3	13.8
+TCGA-EE-A3AG	T0	M0	DiseaseFree	Stage III	N2c	23.5
+TCGA-EE-A3AH	T3b	M0	Recurred/Progressed	Stage II	N0	139
+TCGA-EE-A3J3	T2	M0	Recurred/Progressed	Stage IB	N0	172
+TCGA-EE-A3J4	T3a	M0	Recurred/Progressed	Stage II	N0	127
+TCGA-EE-A3J5	T4a	M0	Recurred/Progressed	Stage III	N1	36.9
+TCGA-EE-A3J7	T2	M0	Recurred/Progressed	Stage I	N0	
+TCGA-EE-A3J8	T4a	M0	Recurred/Progressed	Stage IIIA	N1a	34.3
+TCGA-EE-A3JA	T2a	M0	Recurred/Progressed	Stage IB	N0	53.1
+TCGA-EE-A3JB						
+TCGA-EE-A3JD						
+TCGA-EE-A3JE	T3b	M0	Recurred/Progressed	Stage IIIB	N1a	
+TCGA-EE-A3JH	T2	M0	Recurred/Progressed	Stage IB	N0	
+TCGA-EE-A3JI	T2	M0	Recurred/Progressed	Stage I	N0	
+TCGA-ER-A193	T3b	M0	Recurred/Progressed	Stage IIB	N0	31.4
+TCGA-ER-A194		M0			N0	44.5
+TCGA-ER-A195	TX	M0			N0	35.4
+TCGA-ER-A196	T4b	M0	DiseaseFree	Stage IIC	N0	58.6
+TCGA-ER-A197	T4b	M0	Recurred/Progressed	Stage IIIB	N1a	13.9
+TCGA-ER-A198		M0	Recurred/Progressed		NX	50.7
+TCGA-ER-A199	T4b	M0	Recurred/Progressed	Stage IIIC	N3	9.17
+TCGA-ER-A19A	TX	M1	Recurred/Progressed	Stage IV	N0	
+TCGA-ER-A19B	TX	M0	Recurred/Progressed		N0	98.3
+TCGA-ER-A19C	T2a	M0		Stage I	NX	48.9
+TCGA-ER-A19D	T2a	M0	Recurred/Progressed	Stage IB	N0	12.6
+TCGA-ER-A19E	T2a	M0	Recurred/Progressed	Stage IB	N0	13
+TCGA-ER-A19F		M0			N0	26.4
+TCGA-ER-A19G		M0	DiseaseFree		N0	269
+TCGA-ER-A19H		M0			N0	152
+TCGA-ER-A19J	TX	M1	Recurred/Progressed	Stage IV	N3	6.44
+TCGA-ER-A19K	T4b	M0	Recurred/Progressed	Stage IIC	N0	15.4
+TCGA-ER-A19L			Recurred/Progressed			131
+TCGA-ER-A19M	T2a	M0	Recurred/Progressed	Stage IB	N0	61
+TCGA-ER-A19N			DiseaseFree			44
+TCGA-ER-A19O	T3b	M0	Recurred/Progressed	Stage IIIB	N1b	
+TCGA-ER-A19P		M0	Recurred/Progressed		N0	162
+TCGA-ER-A19Q		M0	Recurred/Progressed		N0	50.9
+TCGA-ER-A19S			DiseaseFree			37.2
+TCGA-ER-A19T						
+TCGA-ER-A19T						
+TCGA-ER-A19W			Recurred/Progressed			148
+TCGA-ER-A1A1	TX	M0	DiseaseFree	Stage IIIC	N3	79.9
+TCGA-ER-A2NB	T4b	M0	Recurred/Progressed	Stage IIIB	N2	
+TCGA-ER-A2NC	T2a	M0	Recurred/Progressed	Stage IB	N0	43.8
+TCGA-ER-A2ND	T1b	M0		Stage IIIC	N3	23.3
+TCGA-ER-A2NE	Tis	M0		Stage 0	N0	20.1
+TCGA-ER-A2NF	T4b	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-ER-A2NF	T4b	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-ER-A2NG	T3b	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-ER-A2NH	T4b	M0	DiseaseFree	Stage IIIC	N3	32
+TCGA-ER-A3ES						247
+TCGA-ER-A3ET	T3a	M0	Recurred/Progressed	Stage IIIA	N1a	
+TCGA-ER-A3EV	T4	M0	Recurred/Progressed	Stage III	N0	46.9
+TCGA-ER-A3PL	T3b	M1a	DiseaseFree	Stage IV	N0	33.2
+TCGA-ER-A42H						
+TCGA-ER-A42K						
+TCGA-ER-A42L						
+TCGA-FR-A2OS	T4b	M0	Recurred/Progressed	Stage IIC	N0	12.1
+TCGA-FR-A3R1	T4b	M0	Recurred/Progressed	Stage IIC	N0	22.5
+TCGA-FR-A3YN	T2a	M0	DiseaseFree	Stage IB	N0	92.9
+TCGA-FR-A3YO	T2	M0		I or II NOS	N0	
+TCGA-FR-A44A	T3a	M0	DiseaseFree	Stage II	N0	174
+TCGA-FR-A69P	TX		DiseaseFree	Stage IIIC	N3	4.89
+TCGA-FR-A726	T4b	M0	DiseaseFree	Stage IIC	N0	8.64
+TCGA-FR-A728	T4b	M0	Recurred/Progressed	Stage IIIB	N2a	
+TCGA-FR-A729	T1	M0	DiseaseFree	Stage I	N0	210
+TCGA-FR-A7U8	TX	M0	DiseaseFree	Stage IIIC	N3	15.1
+TCGA-FR-A7U9	T3b	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-FR-A7UA						
+TCGA-FR-A8YC	T3b	M0		Stage IIB	N0	34.8
+TCGA-FR-A8YD	T4b	M0	DiseaseFree	Stage IIC	N0	29.4
+TCGA-FR-A8YE	T1a	M0	DiseaseFree	Stage IA	N0	94.3
+TCGA-FS-A1YW	T1b	M0		Stage IB	N0	217
+TCGA-FS-A1YX	T2	M0		Stage I	N0	48.5
+TCGA-FS-A1YY	T3a	M0	Recurred/Progressed	Stage IIA	N0	228
+TCGA-FS-A1Z0	T1a	M0	Recurred/Progressed	Stage IA	N0	203
+TCGA-FS-A1Z3	TX	M1	Recurred/Progressed	Stage IV	N0	20.9
+TCGA-FS-A1Z4	T1	M0		Stage I	N0	28.1
+TCGA-FS-A1Z7	T4b	M0	Recurred/Progressed	Stage IIIC	N1b	7.79
+TCGA-FS-A1ZA	T4b	M0	Recurred/Progressed	Stage IIIB	N2c	27.7
+TCGA-FS-A1ZB	T3a	M0	Recurred/Progressed	Stage II	N0	48.8
+TCGA-FS-A1ZC	TX	M0	Recurred/Progressed	I or II NOS	N0	357
+TCGA-FS-A1ZD	T2b	M0	Recurred/Progressed	Stage IIA	N0	53.5
+TCGA-FS-A1ZE	T4b	M0	Recurred/Progressed	Stage IIC	N0	
+TCGA-FS-A1ZF	T4b	M0		Stage IIC	N0	15.4
+TCGA-FS-A1ZG	T4b	M0	Recurred/Progressed	Stage IIIC	N2b	9.69
+TCGA-FS-A1ZH	T3b	M1c	Recurred/Progressed	Stage IV	N2c	32.7
+TCGA-FS-A1ZJ	T2	M0	Recurred/Progressed	Stage I	N0	47.3
+TCGA-FS-A1ZK	T4	M0	Recurred/Progressed	Stage II	N0	23.9
+TCGA-FS-A1ZM	T2	M0	DiseaseFree	Stage III	N2c	101
+TCGA-FS-A1ZN	T4b	M0	Recurred/Progressed	Stage IIIA	N1a	24
+TCGA-FS-A1ZP	T3	M0		Stage II	N0	74.7
+TCGA-FS-A1ZQ	TX	M0	Recurred/Progressed	I or II NOS	N0	133
+TCGA-FS-A1ZR	T2	M0	Recurred/Progressed	Stage II	N0	11.4
+TCGA-FS-A1ZS	T2	M0	DiseaseFree	Stage II	N0	149
+TCGA-FS-A1ZT	T2	M0	DiseaseFree	Stage III	N1b	53.1
+TCGA-FS-A1ZU	T4b	M0	Recurred/Progressed	Stage IIC	N0	26.5
+TCGA-FS-A1ZW	T2b	M0	DiseaseFree	Stage IIIB	N1a	49.4
+TCGA-FS-A1ZY	T3b	M0		Stage IIB	N0	27.1
+TCGA-FS-A1ZZ	T3b	M0		Stage IIB	N0	27
+TCGA-FS-A4F0	T4a	M0	DiseaseFree	Stage IIB	N0	77.8
+TCGA-FS-A4F2	T4b	M0		Stage IIC	N0	50.1
+TCGA-FS-A4F4	T2b	M0		Stage IIA	N0	66.6
+TCGA-FS-A4F5	T2a	M0		Stage IB	N0	28.7
+TCGA-FS-A4F8	T1	M0		Stage I	N0	175
+TCGA-FS-A4F9	T4b	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-FS-A4FB	T2	M0		Stage III	N1a	26.7
+TCGA-FS-A4FC	T3a	M0	DiseaseFree	Stage IIA	N0	49.4
+TCGA-FS-A4FD	T2	M0	DiseaseFree	Stage IIIC	N3	77.8
+TCGA-FW-A3I3	T4b	M1	DiseaseFree	Stage IV	N0	0.2
+TCGA-FW-A3R5	TX	M0	DiseaseFree	Stage III	N2	22.9
+TCGA-FW-A3TU			DiseaseFree			47.5
+TCGA-FW-A3TV	T1	M0	DiseaseFree	Stage III	N2b	0.16
+TCGA-FW-A5DX			DiseaseFree			1.94
+TCGA-FW-A5DY	T3		DiseaseFree	Stage III	N1	2.4
+TCGA-GF-A2C7	T4b	M0	DiseaseFree	Stage IIC	N0	0.69
+TCGA-GF-A3OT	T3	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-GF-A4EO			DiseaseFree			7.23
+TCGA-GF-A6C8	T3b	M0	DiseaseFree	Stage IIB	NX	14
+TCGA-GF-A6C9						
+TCGA-GF-A769						
+TCGA-GN-A262			Recurred/Progressed			
+TCGA-GN-A263	T4b	M1c	Recurred/Progressed	Stage IV	N3	15.3
+TCGA-GN-A264			Recurred/Progressed			118
+TCGA-GN-A265			Recurred/Progressed			
+TCGA-GN-A266			Recurred/Progressed			10.1
+TCGA-GN-A267	T4a	M0	Recurred/Progressed	Stage IIIA	N1a	64.4
+TCGA-GN-A268	T4a	M0	Recurred/Progressed	Stage IIB	N0	62.8
+TCGA-GN-A269	T4b	M0		Stage IIIC	N3	5.58
+TCGA-GN-A26A	T3a	M0	Recurred/Progressed	Stage IIIA	N1a	32.5
+TCGA-GN-A26C	T4b	M0	Recurred/Progressed	Stage IIIC	N2b	27
+TCGA-GN-A26D	T4b		Recurred/Progressed	Stage IIC	N0	
+TCGA-GN-A4U3						
+TCGA-GN-A4U4						
+TCGA-GN-A4U5						
+TCGA-GN-A4U7						
+TCGA-GN-A4U8			DiseaseFree			46.3
+TCGA-GN-A4U9						
+TCGA-GN-A8LK						
+TCGA-GN-A8LL						
+TCGA-GN-A8LN						
+TCGA-GN-A9SD						
+TCGA-HR-A2OG						
+TCGA-HR-A2OG						
+TCGA-HR-A2OH	T3b	M0		Stage IIIB	N2a	
+TCGA-HR-A2OH	T3b	M0		Stage IIIB	N2a	
+TCGA-HR-A5NC						
+TCGA-IH-A3EA	T4b	M0	Recurred/Progressed	Stage IIC	N0	
+TCGA-LH-A9QB						
+TCGA-OD-A75X	TX	M0	DiseaseFree		NX	295
+TCGA-QB-A6FS	T0	M0	Recurred/Progressed	Stage IIIC	N3	
+TCGA-QB-AA9O						
+TCGA-RP-A690						
+TCGA-RP-A693						
+TCGA-RP-A694						
+TCGA-RP-A695						
+TCGA-RP-A6K9						
+TCGA-W3-A824						
+TCGA-W3-A825						
+TCGA-W3-A828						
+TCGA-W3-AA1O						
+TCGA-W3-AA1Q						
+TCGA-W3-AA1R						
+TCGA-W3-AA1V						
+TCGA-W3-AA1W						
+TCGA-W3-AA21						
+TCGA-WE-A8JZ						
+TCGA-WE-A8K1						
+TCGA-WE-A8K4						
+TCGA-WE-A8K5						
+TCGA-WE-A8K6						
+TCGA-WE-A8ZM						
+TCGA-WE-A8ZN						
+TCGA-WE-A8ZO						
+TCGA-WE-A8ZQ						
+TCGA-WE-A8ZR						
+TCGA-WE-A8ZT						
+TCGA-WE-A8ZX						
+TCGA-WE-A8ZY						
+TCGA-WE-AA9Y						
+TCGA-WE-AAA0						
+TCGA-WE-AAA3						
+TCGA-WE-AAA4						
+TCGA-XV-A9VZ						
+TCGA-XV-A9W2						
+TCGA-XV-A9W5						
+TCGA-XV-AAZV						
+TCGA-XV-AAZW						
+TCGA-XV-AAZY						
+TCGA-XV-AB01						
+TCGA-YD-A89C						
+TCGA-YD-A9TA						
+TCGA-YD-A9TB						
+TCGA-YG-AA3N						
+TCGA-YG-AA3O						
+TCGA-YG-AA3P						
+TCGA-Z2-A8RT						
+TCGA-Z2-AA3S						
+TCGA-Z2-AA3V						
